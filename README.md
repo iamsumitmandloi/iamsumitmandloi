@@ -14,16 +14,12 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jN2Ppmb0zcZB7KOpGrDuhkKSxeLR5Wf4/view?usp=share_link](https://drive.google.com/file/d/1jN2Ppmb0zcZB7KOpGrDuhkKSxeLR5Wf4/view?usp=share_link)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/the_sumitkumar"><img height="40" src="icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sumit-mandloi-a9b70b171/"><img height="40" src="icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/thesumit_02/"><img height="40" src="icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thesumit_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-mandloi-a9b70b171) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@iamsumitkumar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12985331) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/the_sumitkumar) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code> </p>
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
 <br/><br/>
 <h3 align="left">Most Used Languages</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsumitmandloi&show_icons=true&locale=en&layout=compact" alt="iamsumitmandloi" /></p>
