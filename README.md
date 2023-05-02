@@ -25,14 +25,7 @@
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> 
   <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
-
-<br/><br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamsumitmandloi&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamsumitmandloi&theme=nord_dark)
-
-<br/><br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsumitmandloi&theme=nord_dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamsumitmandloi&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<br/><br/>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsumitmandloi&" alt="iamsumitmandloi" /></p> -->
