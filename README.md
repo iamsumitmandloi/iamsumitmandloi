@@ -10,11 +10,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsumitmandloi&label=Profile%20views&color=0e75b6&style=flat" alt="imsumitmandloi" /> </p>
 
 
-
-
 - 📫 How to reach me **sumitkumar77.sk@gmail.com**
-
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jN2Ppmb0zcZB7KOpGrDuhkKSxeLR5Wf4/view?usp=share_link)
+- 🔭 Contributing to open source projects.
+- 👯 I’m looking to collaborate on Flutter.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thesumit_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-mandloi-a9b70b171) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@iamsumitkumar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12985331) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/the_sumitkumar) 
