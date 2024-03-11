@@ -11,7 +11,7 @@
 
 
 - 📫 How to reach me **sumitkumar77.sk@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VTMHO1C6EjqrbE-58i4YEaSNbwqJ4dcX/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1N3iNQxyEfFDrMkHMfh5BkNI0MQY06tgI/view?usp=sharing)
 - 🔭 Contributing to open source projects.
 - 👯 I’m looking to collaborate on Flutter.
 
